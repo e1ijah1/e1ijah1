@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a align="left" href="https://github.com/F1renze"> 
+    <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=f1renze&count_private=true&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1renze&count_private=false&show_icons=true&layout=compact&theme=tokyonight" alt="languages" height="165"> -->
+    </p>
+</a>
+
 <!--
 **F1renze/F1renze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
