@@ -7,22 +7,30 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  metrics-follow-up:
+  metrics-status:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
       - uses: lowlighter/metrics@v3.32
         with:
-          filename: metrics.svg
+          filename: metrics-status.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, metadata
+          user: e1ijah1
+          
+          base_indepth: yes
+          base_hireable: yes
+          
+  metrics-notable:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@v3.32
+        with:
+          filename: metrics-notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          
-          plugin_notable: yes
-          plugin_notable_filter: stars:>200 forks:>50
-          plugin_notable_from: organization
-          plugin_notable_repositories: yes
-#           plugin_notable_skipped: 
-          plugin_notable_indepth: yes
+          user: e1ijah1
           
           plugin_followup: yes
           plugin_followup_indepth: yes
@@ -30,12 +38,17 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+            gnuplot, RenderScript
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
           plugin_languages_recent_days: 60
           
-          user: e1ijah1
+          plugin_notable: yes
+          plugin_notable_filter: stars:>200 forks:>50
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+#           plugin_notable_skipped: 
+          plugin_notable_indepth: yes
   
 
