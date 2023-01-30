@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - ✈️ Open to Remote/Intern Job Opportunities 🍻
 
 ![](https://komarev.com/ghpvc/?username=e11jah&label=views)
+
+
+![Mtrics](/metrics.svg)
