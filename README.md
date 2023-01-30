@@ -37,4 +37,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=e11jah&label=views)
 
 
-![Mtrics](/metrics.svg)
+<a href="https://github.com/e1ijah1">
+  <img align="center" width="49%" src="./metrics-status.svg" />
+</a>
+<a href="https://github.com/e1ijah1">
+  <img align="center" width="49%" src="./metrics-notable.svg" />
+</a>
+
