@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋 Here is E1ijah
 
 <!-- <a align="left" href="https://github.com/F1renze"> 
     <p align="left">
@@ -8,9 +8,9 @@
 </a> -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=e1ijah1&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=e1ijah1&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css,javascript,python)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=e1ijah1&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true) -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=e1ijah1&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css,javascript,python) -->
 
 
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1renze&count_private=false&show_icons=true&layout=compact&theme=tokyonight" alt="languages" height="165">  -->
@@ -30,17 +30,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  🌱 I’m currently using `GoLang` `Python` <del>`Rust`</del> <del>`C++`</del> 
+
+
+-  🌱 I’m currently using `Rust` `GoLang` `Python` `C++`
 - 💻 Interested in consensus algorithm, distributed storage system and rust.
 - ✈️ Open to Remote/Intern Job Opportunities 🍻
-
-![](https://komarev.com/ghpvc/?username=e11jah&label=views)
-
-
-<a href="https://github.com/e1ijah1">
-  <img align="center" width="49%" src="./metrics-status.svg" />
-</a>
+<br>
 <a href="https://github.com/e1ijah1">
   <img align="center" width="49%" src="./metrics-notable.svg" />
 </a>
+<a href="https://github.com/e1ijah1">
+  <img align="center" width="49%" src="./metrics-status.svg" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=e11jah&label=views)
 
