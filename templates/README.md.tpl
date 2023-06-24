@@ -13,6 +13,10 @@
 
 ![](https://komarev.com/ghpvc/?username=e11jah&label=views)
 
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 20}}
