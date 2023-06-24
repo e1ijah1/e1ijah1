@@ -13,6 +13,18 @@
 
 ![](https://komarev.com/ghpvc/?username=e11jah&label=views)
 
+#### 👷 Check out what I'm currently working on
+
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (2 weeks ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 months ago)
+- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (5 months ago)
+- [tikv/pd](https://github.com/tikv/pd) - Placement driver for TiKV (6 months ago)
+- [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io) (6 months ago)
+- [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Hyperconverged cloud-edge native database (8 months ago)
+- [e1ijah1/tinykv](https://github.com/e1ijah1/tinykv) - A course to build distributed key-value service based on TiKV model (8 months ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com 🧠  (10 months ago)
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial (11 months ago)
+- [apache/skywalking-banyandb](https://github.com/apache/skywalking-banyandb) - An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
