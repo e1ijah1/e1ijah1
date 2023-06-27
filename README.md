@@ -15,7 +15,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (2 weeks ago)
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine (3 weeks ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (3 months ago)
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely. (5 months ago)
 
@@ -36,7 +36,7 @@
 - [chore: add custom log level support for `common_telemetry::init_default_ut_logging()`](https://github.com/GreptimeTeam/greptimedb/pull/864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
 - [feat: implement tokio::io::{AsyncRead, AsyncSeek} for ObjectReader](https://github.com/apache/incubator-opendal/pull/1175) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (5 months ago)
 - [feat: support renaming table in the catalog manger](https://github.com/GreptimeTeam/greptimedb/pull/824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
-- [feat: implement rename table](https://github.com/GreptimeTeam/greptimedb/pull/802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
+- [feat: implement rename table](https://github.com/GreptimeTeam/greptimedb/pull/802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 months ago)
 - [feat: support parsing the RENAME TABLE statements in the parser ](https://github.com/GreptimeTeam/greptimedb/pull/780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 months ago)
 - [refactor(mito): change the table path to `schema/table_id`](https://github.com/GreptimeTeam/greptimedb/pull/728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 months ago)
 - [feat: support rename table](https://github.com/GreptimeTeam/greptimedb/pull/724) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 months ago)
