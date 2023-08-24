@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support type coercion in Parquet Reader](https://github.com/apache/arrow-datafusion/pull/6458) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (2 months ago)
+- [feat: support type coercion in Parquet Reader](https://github.com/apache/arrow-datafusion/pull/6458) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (3 months ago)
 - [feat: support type cast in SchemaAdapter](https://github.com/apache/arrow-datafusion/pull/6404) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (3 months ago)
 - [[sqllogictest] port tests in avro.rs to sqllogictest](https://github.com/apache/arrow-datafusion/pull/6362) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (3 months ago)
 - [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
