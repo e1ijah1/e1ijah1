@@ -30,7 +30,7 @@
 - [chore: fix rfc typo](https://github.com/GreptimeTeam/greptimedb/pull/952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
 - [feat: enable caching when using object store](https://github.com/GreptimeTeam/greptimedb/pull/928) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
 - [test: run sqlness test in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (8 months ago)
-- [docs(discovery): add document for k8s mtls](https://github.com/apache/apisix/pull/8725) on [apache/apisix](https://github.com/apache/apisix) (8 months ago)
+- [docs(discovery): add document for k8s mtls](https://github.com/apache/apisix/pull/8725) on [apache/apisix](https://github.com/apache/apisix) (9 months ago)
 - [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (9 months ago)
 - [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (9 months ago)
 - [feat(file-logger): support standard output for file logger plugins](https://github.com/apache/apisix/pull/8681) on [apache/apisix](https://github.com/apache/apisix) (9 months ago)
