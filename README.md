@@ -34,7 +34,7 @@
 - [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (9 months ago)
 - [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (9 months ago)
 - [feat(file-logger): support standard output for file logger plugins](https://github.com/apache/apisix/pull/8681) on [apache/apisix](https://github.com/apache/apisix) (9 months ago)
-- [docs: fix error link about nacos deployment tutorial ](https://github.com/apache/apisix/pull/8662) on [apache/apisix](https://github.com/apache/apisix) (9 months ago)
+- [docs: fix error link about nacos deployment tutorial ](https://github.com/apache/apisix/pull/8662) on [apache/apisix](https://github.com/apache/apisix) (10 months ago)
 - [chore: add custom log level support for `common_telemetry::init_default_ut_logging()`](https://github.com/GreptimeTeam/greptimedb/pull/864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
 - [feat: implement tokio::io::{AsyncRead, AsyncSeek} for ObjectReader](https://github.com/apache/incubator-opendal/pull/1175) on [apache/incubator-opendal](https://github.com/apache/incubator-opendal) (10 months ago)
 - [feat: support renaming table in the catalog manger](https://github.com/GreptimeTeam/greptimedb/pull/824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
