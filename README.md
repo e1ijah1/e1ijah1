@@ -25,7 +25,7 @@
 - [add tensorflow](https://github.com/e1ijah1/public-image-mirror/pull/1) on [e1ijah1/public-image-mirror](https://github.com/e1ijah1/public-image-mirror) (3 months ago)
 - [feat: support type coercion in Parquet Reader](https://github.com/apache/arrow-datafusion/pull/6458) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (6 months ago)
 - [feat: support type cast in SchemaAdapter](https://github.com/apache/arrow-datafusion/pull/6404) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (6 months ago)
-- [[sqllogictest] port tests in avro.rs to sqllogictest](https://github.com/apache/arrow-datafusion/pull/6362) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (6 months ago)
+- [[sqllogictest] port tests in avro.rs to sqllogictest](https://github.com/apache/arrow-datafusion/pull/6362) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (7 months ago)
 - [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (9 months ago)
 - [chore: fix rfc typo](https://github.com/GreptimeTeam/greptimedb/pull/952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
 - [feat: enable caching when using object store](https://github.com/GreptimeTeam/greptimedb/pull/928) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
