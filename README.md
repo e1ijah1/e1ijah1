@@ -29,7 +29,7 @@
 - [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (10 months ago)
 - [chore: fix rfc typo](https://github.com/GreptimeTeam/greptimedb/pull/952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (11 months ago)
 - [feat: enable caching when using object store](https://github.com/GreptimeTeam/greptimedb/pull/928) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (11 months ago)
-- [test: run sqlness test in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (11 months ago)
+- [test: run sqlness test in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [docs(discovery): add document for k8s mtls](https://github.com/apache/apisix/pull/8725) on [apache/apisix](https://github.com/apache/apisix) (1 year ago)
 - [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (1 year ago)
