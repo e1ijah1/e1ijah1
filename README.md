@@ -26,7 +26,7 @@
 - [feat: support type coercion in Parquet Reader](https://github.com/apache/arrow-datafusion/pull/6458) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (9 months ago)
 - [feat: support type cast in SchemaAdapter](https://github.com/apache/arrow-datafusion/pull/6404) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (9 months ago)
 - [[sqllogictest] port tests in avro.rs to sqllogictest](https://github.com/apache/arrow-datafusion/pull/6362) on [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) (9 months ago)
-- [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (11 months ago)
+- [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [chore: fix rfc typo](https://github.com/GreptimeTeam/greptimedb/pull/952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [feat: enable caching when using object store](https://github.com/GreptimeTeam/greptimedb/pull/928) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [test: run sqlness test in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
