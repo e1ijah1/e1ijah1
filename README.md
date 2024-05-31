@@ -16,7 +16,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。 (9 months ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (11 months ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (1 year ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -39,4 +39,4 @@
 - [feat: support renaming table in the catalog manger](https://github.com/GreptimeTeam/greptimedb/pull/824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [feat: implement rename table](https://github.com/GreptimeTeam/greptimedb/pull/802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
 - [feat: support parsing the RENAME TABLE statements in the parser ](https://github.com/GreptimeTeam/greptimedb/pull/780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
-- [refactor(mito): change the table path to `schema/table_id`](https://github.com/GreptimeTeam/greptimedb/pull/728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 year ago)
+- [refactor(mito): change the table path to `schema/table_id`](https://github.com/GreptimeTeam/greptimedb/pull/728) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
