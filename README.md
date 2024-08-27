@@ -15,7 +15,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。 (1 year ago)
 
 #### 🔨 My recent Pull Requests
 
