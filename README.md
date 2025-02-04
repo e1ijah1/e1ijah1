@@ -15,7 +15,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (5 days ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
