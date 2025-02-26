@@ -31,8 +31,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -197,17 +197,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 53.336000000000006%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 53.608000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">fish</span>
-                                <div class="bar" style="width: 21.240000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 20.936000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">26%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 4.5600000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.5840000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
@@ -221,7 +221,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2025, 01:23:15  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Feb 2025, 01:22:41  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
