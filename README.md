@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (1 day ago)
 - [bugfix: Fix signature mismatch in benchmark&#39;s `get_tokenizer` function](https://github.com/vllm-project/vllm/pull/11982) on [vllm-project/vllm](https://github.com/vllm-project/vllm) (10 months ago)
 - [add tensorflow](https://github.com/DaoCloud/public-image-mirror/pull/341) on [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) (2 years ago)
 - [add tensorflow](https://github.com/e1ijah1/public-image-mirror/pull/1) on [e1ijah1/public-image-mirror](https://github.com/e1ijah1/public-image-mirror) (2 years ago)
@@ -38,4 +39,3 @@
 - [feat: implement tokio::io::{AsyncRead, AsyncSeek} for ObjectReader](https://github.com/apache/opendal/pull/1175) on [apache/opendal](https://github.com/apache/opendal) (2 years ago)
 - [feat: support renaming table in the catalog manger](https://github.com/GreptimeTeam/greptimedb/pull/824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
 - [feat: implement rename table](https://github.com/GreptimeTeam/greptimedb/pull/802) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
-- [feat: support parsing the RENAME TABLE statements in the parser ](https://github.com/GreptimeTeam/greptimedb/pull/780) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
