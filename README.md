@@ -19,7 +19,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (3 days ago)
+- [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 day ago)
+- [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (4 days ago)
 - [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (1 week ago)
 - [bugfix: Fix signature mismatch in benchmark&#39;s `get_tokenizer` function](https://github.com/vllm-project/vllm/pull/11982) on [vllm-project/vllm](https://github.com/vllm-project/vllm) (11 months ago)
 - [add tensorflow](https://github.com/DaoCloud/public-image-mirror/pull/341) on [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) (2 years ago)
@@ -38,4 +39,3 @@
 - [docs: fix error link about nacos deployment tutorial ](https://github.com/apache/apisix/pull/8662) on [apache/apisix](https://github.com/apache/apisix) (2 years ago)
 - [chore: add custom log level support for `common_telemetry::init_default_ut_logging()`](https://github.com/GreptimeTeam/greptimedb/pull/864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
 - [feat: implement tokio::io::{AsyncRead, AsyncSeek} for ObjectReader](https://github.com/apache/opendal/pull/1175) on [apache/opendal](https://github.com/apache/opendal) (2 years ago)
-- [feat: support renaming table in the catalog manger](https://github.com/GreptimeTeam/greptimedb/pull/824) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
