@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (4 days ago)
+- [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (5 days ago)
 - [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 week ago)
 - [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (1 week ago)
 - [bugfix: Fix signature mismatch in benchmark&#39;s `get_tokenizer` function](https://github.com/vllm-project/vllm/pull/11982) on [vllm-project/vllm](https://github.com/vllm-project/vllm) (11 months ago)
