@@ -15,6 +15,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (1 day ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (10 months ago)
 
 #### 🔨 My recent Pull Requests
