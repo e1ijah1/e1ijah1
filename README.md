@@ -15,14 +15,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (3 days ago)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (4 days ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (10 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP][Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 day ago)
+- [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 days ago)
 - [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 week ago)
-- [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 week ago)
+- [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 weeks ago)
 - [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (2 weeks ago)
 - [bugfix: Fix signature mismatch in benchmark&#39;s `get_tokenizer` function](https://github.com/vllm-project/vllm/pull/11982) on [vllm-project/vllm](https://github.com/vllm-project/vllm) (11 months ago)
 - [add tensorflow](https://github.com/DaoCloud/public-image-mirror/pull/341) on [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) (2 years ago)
