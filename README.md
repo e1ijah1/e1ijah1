@@ -15,12 +15,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (4 days ago)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (1 day ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (10 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 days ago)
+- [feat: support cache for LongCat-Image &amp; LongCat-Image-Edit ](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (1 day ago)
+- [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (3 days ago)
 - [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 week ago)
 - [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 weeks ago)
 - [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (2 weeks ago)
@@ -39,4 +40,3 @@
 - [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (2 years ago)
 - [feat(file-logger): support standard output for file logger plugins](https://github.com/apache/apisix/pull/8681) on [apache/apisix](https://github.com/apache/apisix) (2 years ago)
 - [docs: fix error link about nacos deployment tutorial ](https://github.com/apache/apisix/pull/8662) on [apache/apisix](https://github.com/apache/apisix) (2 years ago)
-- [chore: add custom log level support for `common_telemetry::init_default_ut_logging()`](https://github.com/GreptimeTeam/greptimedb/pull/864) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
