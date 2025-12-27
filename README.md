@@ -15,14 +15,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗 A PyTorch-native Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (3 days ago)
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (4 days ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (4 days ago)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (5 days ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (4 days ago)
-- [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (6 days ago)
+- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (5 days ago)
+- [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 week ago)
 - [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 weeks ago)
 - [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 weeks ago)
 - [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (3 weeks ago)
@@ -40,4 +40,4 @@
 - [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
 - [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (2 years ago)
 - [feat(file-logger): support standard output for file logger plugins](https://github.com/apache/apisix/pull/8681) on [apache/apisix](https://github.com/apache/apisix) (2 years ago)
-- [docs: fix error link about nacos deployment tutorial ](https://github.com/apache/apisix/pull/8662) on [apache/apisix](https://github.com/apache/apisix) (2 years ago)
+- [docs: fix error link about nacos deployment tutorial ](https://github.com/apache/apisix/pull/8662) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
