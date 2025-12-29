@@ -15,16 +15,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (5 days ago)
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (6 days ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (6 days ago)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (1 week ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (6 days ago)
+- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (1 week ago)
 - [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (1 week ago)
 - [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 weeks ago)
-- [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 weeks ago)
+- [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (3 weeks ago)
 - [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (3 weeks ago)
 - [bugfix: Fix signature mismatch in benchmark&#39;s `get_tokenizer` function](https://github.com/vllm-project/vllm/pull/11982) on [vllm-project/vllm](https://github.com/vllm-project/vllm) (11 months ago)
 - [add tensorflow](https://github.com/DaoCloud/public-image-mirror/pull/341) on [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) (2 years ago)
