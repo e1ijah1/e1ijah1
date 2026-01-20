@@ -15,7 +15,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (3 weeks ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (4 weeks ago)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (4 weeks ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (11 months ago)
 
