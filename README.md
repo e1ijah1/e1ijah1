@@ -15,7 +15,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (4 weeks ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (1 month ago)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (1 month ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (11 months ago)
 
@@ -33,7 +33,7 @@
 - [feat: support type cast in SchemaAdapter](https://github.com/apache/datafusion/pull/6404) on [apache/datafusion](https://github.com/apache/datafusion) (2 years ago)
 - [[sqllogictest] port tests in avro.rs to sqllogictest](https://github.com/apache/datafusion/pull/6362) on [apache/datafusion](https://github.com/apache/datafusion) (2 years ago)
 - [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
-- [chore: fix rfc typo](https://github.com/GreptimeTeam/greptimedb/pull/952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 years ago)
+- [chore: fix rfc typo](https://github.com/GreptimeTeam/greptimedb/pull/952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [feat: enable caching when using object store](https://github.com/GreptimeTeam/greptimedb/pull/928) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [test: run sqlness test in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [docs(discovery): add document for k8s mtls](https://github.com/apache/apisix/pull/8725) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
