@@ -16,11 +16,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - 🤗 A PyTorch-native and Flexible Inference Engine with Hybrid Cache Acceleration and Parallelism for DiTs. (1 month ago)
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (1 month ago)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (1 month ago)
+- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (2 months ago)
 - [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 months ago)
 - [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 months ago)
 - [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (2 months ago)
