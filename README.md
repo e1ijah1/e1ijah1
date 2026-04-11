@@ -15,7 +15,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with Cache, Parallelism and Quantization for DiTs. (3 months ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache acceleration, parallelism and quantization for DiTs. (3 months ago)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (3 months ago)
 
 #### 🔨 My recent Pull Requests
