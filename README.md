@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago)
 - [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (3 months ago)
 - [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (3 months ago)
 - [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (4 months ago)
@@ -39,4 +40,3 @@
 - [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
 - [feat(file-logger): support standard output for file logger plugins](https://github.com/apache/apisix/pull/8681) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
-- [docs: fix error link about nacos deployment tutorial ](https://github.com/apache/apisix/pull/8662) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
