@@ -21,6 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago)
 - [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (3 weeks ago)
 - [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (4 months ago)
 - [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (4 months ago)
@@ -31,7 +32,7 @@
 - [add tensorflow](https://github.com/DaoCloud/public-image-mirror/pull/341) on [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) (2 years ago)
 - [add tensorflow](https://github.com/e1ijah1/public-image-mirror/pull/1) on [e1ijah1/public-image-mirror](https://github.com/e1ijah1/public-image-mirror) (2 years ago)
 - [feat: support type coercion in Parquet Reader](https://github.com/apache/datafusion/pull/6458) on [apache/datafusion](https://github.com/apache/datafusion) (2 years ago)
-- [feat: support type cast in SchemaAdapter](https://github.com/apache/datafusion/pull/6404) on [apache/datafusion](https://github.com/apache/datafusion) (2 years ago)
+- [feat: support type cast in SchemaAdapter](https://github.com/apache/datafusion/pull/6404) on [apache/datafusion](https://github.com/apache/datafusion) (3 years ago)
 - [[sqllogictest] port tests in avro.rs to sqllogictest](https://github.com/apache/datafusion/pull/6362) on [apache/datafusion](https://github.com/apache/datafusion) (3 years ago)
 - [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [chore: fix rfc typo](https://github.com/GreptimeTeam/greptimedb/pull/952) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
@@ -40,4 +41,3 @@
 - [docs(discovery): add document for k8s mtls](https://github.com/apache/apisix/pull/8725) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
 - [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
-- [feat(file-logger): support standard output for file logger plugins](https://github.com/apache/apisix/pull/8681) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
