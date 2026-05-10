@@ -15,23 +15,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge (1 day ago)
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge (2 days ago)
 - [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache, parallelism, quantization for Diffusion Transformers. (4 months ago)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (4 days ago)
-- [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (3 weeks ago)
+- [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (5 days ago)
+- [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (4 weeks ago)
 - [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (4 months ago)
 - [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (4 months ago)
-- [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (4 months ago)
+- [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (5 months ago)
 - [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (5 months ago)
 - [Fix: add missing `get_byt5_text_tokens()`](https://github.com/ModelTC/LightX2V/pull/564) on [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) (5 months ago)
 - [bugfix: Fix signature mismatch in benchmark&#39;s `get_tokenizer` function](https://github.com/vllm-project/vllm/pull/11982) on [vllm-project/vllm](https://github.com/vllm-project/vllm) (1 year ago)
 - [add tensorflow](https://github.com/DaoCloud/public-image-mirror/pull/341) on [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) (2 years ago)
 - [add tensorflow](https://github.com/e1ijah1/public-image-mirror/pull/1) on [e1ijah1/public-image-mirror](https://github.com/e1ijah1/public-image-mirror) (2 years ago)
-- [feat: support type coercion in Parquet Reader](https://github.com/apache/datafusion/pull/6458) on [apache/datafusion](https://github.com/apache/datafusion) (2 years ago)
+- [feat: support type coercion in Parquet Reader](https://github.com/apache/datafusion/pull/6458) on [apache/datafusion](https://github.com/apache/datafusion) (3 years ago)
 - [feat: support type cast in SchemaAdapter](https://github.com/apache/datafusion/pull/6404) on [apache/datafusion](https://github.com/apache/datafusion) (3 years ago)
 - [[sqllogictest] port tests in avro.rs to sqllogictest](https://github.com/apache/datafusion/pull/6362) on [apache/datafusion](https://github.com/apache/datafusion) (3 years ago)
 - [feat(datatypes): implement VectorOp::take](https://github.com/GreptimeTeam/greptimedb/pull/1115) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
