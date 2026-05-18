@@ -21,6 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[CLI] add Python validator support for tool_selection plugin ](https://github.com/vllm-project/semantic-router/pull/1916) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago)
 - [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago)
 - [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 month ago)
 - [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (4 months ago)
@@ -40,4 +41,3 @@
 - [test: run sqlness test in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [docs(discovery): add document for k8s mtls](https://github.com/apache/apisix/pull/8725) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
 - [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
-- [feat(k8s-discovery): support mTLS](https://github.com/apache/apisix/pull/8699) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
