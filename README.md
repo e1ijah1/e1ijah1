@@ -15,13 +15,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge (5 days ago)
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge (6 days ago)
 - [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache, parallelism, quantization for Diffusion Transformers. (5 months ago)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [[CLI] add Python validator support for tool_selection plugin ](https://github.com/vllm-project/semantic-router/pull/1916) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (6 days ago)
+- [[Router][CLI] restore hybrid_history retrieval wiring and advanced_filtering schema parity](https://github.com/vllm-project/semantic-router/pull/1935) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (today)
+- [[CLI] add Python validator support for tool_selection plugin ](https://github.com/vllm-project/semantic-router/pull/1916) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago)
 - [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 weeks ago)
 - [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 month ago)
 - [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (5 months ago)
@@ -40,4 +41,3 @@
 - [feat: enable caching when using object store](https://github.com/GreptimeTeam/greptimedb/pull/928) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [test: run sqlness test in distributed mode](https://github.com/GreptimeTeam/greptimedb/pull/916) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
 - [docs(discovery): add document for k8s mtls](https://github.com/apache/apisix/pull/8725) on [apache/apisix](https://github.com/apache/apisix) (3 years ago)
-- [fix: create table after rename table](https://github.com/GreptimeTeam/greptimedb/pull/894) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 years ago)
