@@ -21,9 +21,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Router][CLI] restore hybrid_history retrieval wiring and advanced_filtering schema parity](https://github.com/vllm-project/semantic-router/pull/1935) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 day ago)
+- [[Router][CLI] restore hybrid_history retrieval wiring and advanced_filtering schema parity](https://github.com/vllm-project/semantic-router/pull/1935) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 days ago)
 - [[CLI] add Python validator support for tool_selection plugin ](https://github.com/vllm-project/semantic-router/pull/1916) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago)
-- [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 weeks ago)
+- [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (3 weeks ago)
 - [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 month ago)
 - [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (5 months ago)
 - [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (5 months ago)
