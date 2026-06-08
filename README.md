@@ -16,7 +16,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge (1 week ago)
-- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache, parallelism, quantization for Diffusion Transformers. (5 months ago)
+- [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache, parallelism, quantization and cpu offload for DiTs. (5 months ago)
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (5 months ago)
 
 #### 🔨 My recent Pull Requests
