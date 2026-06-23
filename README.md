@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Router][CLI] restore hybrid_history retrieval wiring and advanced_filtering schema parity](https://github.com/vllm-project/semantic-router/pull/1935) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (4 weeks ago)
+- [[Router][CLI] restore hybrid_history retrieval wiring and advanced_filtering schema parity](https://github.com/vllm-project/semantic-router/pull/1935) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 month ago)
 - [[CLI] add Python validator support for tool_selection plugin ](https://github.com/vllm-project/semantic-router/pull/1916) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 month ago)
 - [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 month ago)
 - [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 months ago)
