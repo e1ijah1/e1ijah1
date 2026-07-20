@@ -17,7 +17,7 @@
 
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference (1 month ago)
 - [vipshop/cache-dit](https://github.com/vipshop/cache-dit) - A PyTorch-native inference engine with cache, parallelism, quantization and cpu offload for DiTs. (6 months ago)
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (6 months ago)
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -25,7 +25,7 @@
 - [[CLI] add Python validator support for tool_selection plugin ](https://github.com/vllm-project/semantic-router/pull/1916) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 months ago)
 - [[Router] Add `EMIT retention` directive to the Routing DSL](https://github.com/vllm-project/semantic-router/pull/1873) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 months ago)
 - [[CLI] Fix host parsing and path rewrite in Envoy config generator](https://github.com/vllm-project/semantic-router/pull/1767) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (3 months ago)
-- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (6 months ago)
+- [feat: support cache for LongCat-Image](https://github.com/vipshop/cache-dit/pull/602) on [vipshop/cache-dit](https://github.com/vipshop/cache-dit) (7 months ago)
 - [[Model] Add LongCat-Image-Edit support](https://github.com/vllm-project/vllm-omni/pull/392) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (7 months ago)
 - [[Model] Add LongCat-Image support](https://github.com/vllm-project/vllm-omni/pull/291) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (7 months ago)
 - [[Model] [WIP] Add Wan2.1 t2v support](https://github.com/vllm-project/vllm-omni/pull/244) on [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) (7 months ago)
